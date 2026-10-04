@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm Rajesh 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=200&section=header&text=Hi%20there,%20I'm%20Rajesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
 <div align="center">
-  <a href="https://github.com/secure-it-co-web">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Undergrad+🚀;Fullstack+Engineer+%7C+Next.js+%26+Node;Cybersecurity+%26+VAPT+Practitioner+🛡️;Building+Scalable+Modern+Apps+⚡" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=AIML+Undergrad+%40+QISCET+%F0%9F%9A%80;Fullstack+Engineer+%7C+Next.js+%26+Node;Cybersecurity+%26+VAPT+Practitioner+%F0%9F%9B%A1%EF%B8%8F;Building+Intelligent+AI+Systems+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>AIML Undergrad @ QISCET (2024–2028) &nbsp;|&nbsp; Fullstack Developer &nbsp;|&nbsp; CyberSec & VAPT Enthusiast</b>
+  <b>AIML Undergrad @ QISCET (2024–2028) &nbsp;|&nbsp; Fullstack Engineer &nbsp;|&nbsp; CyberSec & VAPT Enthusiast</b>
 </p>
 
 <p align="center">
@@ -139,7 +139,9 @@
   </a>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=120&section=footer" width="100%" />
+</div>
 
 <div align="center">
   <sub>⚡ Designed & Crafted with passion by <b>Rajesh</b> ⚡</sub>
